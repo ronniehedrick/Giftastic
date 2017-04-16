@@ -1,5 +1,5 @@
 // initial array with topics
-var topics = ["puupies", "kittens", "birds", "fish", "lizards", "tigers", "lions"];
+var topics = ["puppies", "kittens", "birds", "fish", "lizards", "tigers", "lions"];
 
 // function that renders buttons when called
 function renderButtons(){
